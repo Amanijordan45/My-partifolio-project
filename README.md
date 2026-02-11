@@ -43,3 +43,5 @@ The goal of this project is to practice front-end development skills and create 
 📬 Contact
 If you want to collaborate or connect, feel free to reach out through the contact section on my website.
 
+
+![images alt](https://github.com/Amanijordan45/My-partifolio-project/blob/main/1770022453913.jpg?raw=true)
